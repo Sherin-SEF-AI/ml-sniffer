@@ -6,6 +6,8 @@
 
 ML Sniff is a comprehensive Python package that automatically analyzes your data to determine the most likely machine learning problem type, identifies the target column, suggests appropriate models, and provides advanced data analytics.
 
+![ML Sniff Demo](ml-sniff.gif)
+
 ## 🚀 Features
 
 - 🔍 **Automatic Target Detection**: Uses advanced heuristics to identify the most likely target column
