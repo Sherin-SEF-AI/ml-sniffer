@@ -1,8 +1,13 @@
 # ML Sniff 🕵️‍♂️
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1b70e7b4-648d-4013-8ef6-fbd82784740f" />
+
+
 **Advanced Machine Learning Problem Detection from CSV files and DataFrames**
 
 *By [Sherin Joseph Roy](https://sherin-sef-ai.github.io/) - Startup Founder & Hardware/IoT Enthusiast*
+
+
 
 ML Sniff is a comprehensive Python package that automatically analyzes your data to determine the most likely machine learning problem type, identifies the target column, suggests appropriate models, and provides advanced data analytics.
 
